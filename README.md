@@ -28,5 +28,5 @@ Step 3: Remove irrelevant values from each column if any. Validation of all valu
 
 
 Step 4: Export the cleaned dataset as a .csv file: prefer UTF-8 encoding.
-
- So now the dataset is very clean and ready to be exported to csv file with UTF-8 encoding. Superstore_cleaned_dataset.csv is now cleaned and ready for data analysis.
+![image](https://user-images.githubusercontent.com/17746000/223123750-c9c2e012-7b9d-47cd-8916-57892e1febbe.png)
+ So now the dataset is very clean and ready to be exported to csv file with UTF-8 encoding. Superstore_cleaned_dataset.csv is now cleaned and ready for data analysis.
