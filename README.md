@@ -7,8 +7,9 @@ Superstore Sales Analysis & Data Visualisation
 This is the real world data analysis project conducted by HiCounselor as a 2 week challenge. 
 The real dataset, client requirements, the tools which will be used, everything related to the project had been given in a sandbox link in their website.
 It Contains 2 modules:
-Module 1(Week 1): A.Preprocessing, cleaning the data using Python and finally achieving the clean dataset. B. Analysing the data using MySQL for the requested conditions.
-Module 2 (Week 2): Visualizing the data analysis using PowerBI/Tableau and present to the stakeholders.
+Module 1(Week 1): Preprocessing, cleaning the data using Python and finally achieving the clean dataset. 
+Module 2(Week 1): Analysing the data using MySQL for the requested conditions.
+Module 3(Week 2): Visualizing the data analysis using PowerBI/Tableau and present to the stakeholders.
 
 ---
 
@@ -30,3 +31,14 @@ Step 3: Remove irrelevant values from each column if any. Validation of all valu
 Step 4: Export the cleaned dataset as a .csv file: prefer UTF-8 encoding.
 ![image](https://user-images.githubusercontent.com/17746000/223123750-c9c2e012-7b9d-47cd-8916-57892e1febbe.png)
  So now the dataset is very clean and ready to be exported to csv file with UTF-8 encoding. Superstore_cleaned_dataset.csv is now cleaned and ready for data analysis.
+ 
+ After finishing the data cleaning,now the requirement is to convert the cleaned csv to sql file and create a table called "superstore" in the PHP Admin.
+ Converted the csv file to SQL file using this website.
+ https://www.convertcsv.com/csv-to-sql.htm
+ 
+ 
+ Then the SQL file has been imported into PHP admin by using given Username,Password as table superstore.
+ 
+ Now the table has been created for data analysis using SQL. There were 14 tasks/data analysis requirement given. The SQL queries used to address those requirements has been attached as superstore.sql file.
+ 
+ From this Module 1 and 2 comes to an end.
