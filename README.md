@@ -6,7 +6,7 @@ Superstore Sales Analysis & Data Visualisation
 
 This is the real world data analysis project conducted by HiCounselor as a 2 week challenge. 
 The real dataset, client requirements, the tools which will be used, everything related to the project had been given in a sandbox link in their website.
-It Contains 2 modules:
+It Contains 3 modules:
 Module 1(Week 1): Preprocessing, cleaning the data using Python and finally achieving the clean dataset. 
 Module 2(Week 1): Analysing the data using MySQL for the requested conditions.
 Module 3(Week 2): Visualizing the data analysis using PowerBI/Tableau and present to the stakeholders.
